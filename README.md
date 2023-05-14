@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Buyani Mhlongo
 - 📫 How to reach me(buyanimhlongo@gmail.com or 0843063990)
+- Azure(CosmosDB,Serverless)
+- C# 
 
 <!---
 Buyani/Buyani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
